@@ -1,8 +1,8 @@
-#LAB PROJECT
+# LAB PROJECT
 
 A under construction game prototype made with [SDL3](https://github.com/libsdl-org/SDL) (in C).
 
-###Build:
+### Build:
 ```console
 ~$ make
 ```
